@@ -1,0 +1,15 @@
+A:\ASP.net\Exam02\Exam02\obj\Debug\net7.0\Exam02.GeneratedMSBuildEditorConfig.editorconfig
+A:\ASP.net\Exam02\Exam02\obj\Debug\net7.0\Exam02.AssemblyInfoInputs.cache
+A:\ASP.net\Exam02\Exam02\obj\Debug\net7.0\Exam02.AssemblyInfo.cs
+A:\ASP.net\Exam02\Exam02\obj\Debug\net7.0\Exam02.csproj.CoreCompileInputs.cache
+A:\ASP.net\Exam02\Exam02\obj\Debug\net7.0\Exam02.sourcelink.json
+A:\ASP.net\Exam02\Exam02\bin\Debug\net7.0\Exam02.exe
+A:\ASP.net\Exam02\Exam02\bin\Debug\net7.0\Exam02.deps.json
+A:\ASP.net\Exam02\Exam02\bin\Debug\net7.0\Exam02.runtimeconfig.json
+A:\ASP.net\Exam02\Exam02\bin\Debug\net7.0\Exam02.dll
+A:\ASP.net\Exam02\Exam02\bin\Debug\net7.0\Exam02.pdb
+A:\ASP.net\Exam02\Exam02\obj\Debug\net7.0\Exam02.dll
+A:\ASP.net\Exam02\Exam02\obj\Debug\net7.0\refint\Exam02.dll
+A:\ASP.net\Exam02\Exam02\obj\Debug\net7.0\Exam02.pdb
+A:\ASP.net\Exam02\Exam02\obj\Debug\net7.0\Exam02.genruntimeconfig.cache
+A:\ASP.net\Exam02\Exam02\obj\Debug\net7.0\ref\Exam02.dll
